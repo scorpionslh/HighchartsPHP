@@ -1,5 +1,5 @@
 {
-    "name": "ghunti/highcharts-php",
+    "name": "scorpionslh/highcharts-php",
     "type": "library",
     "description": "A php wrapper for highcharts and highstock javascript libraries",
     "keywords": ["highcharts", "highstock", "php", "charts", "javascript"],
@@ -15,8 +15,8 @@
     ],
     "support": {
         "email": "mail@goncaloqueiros.net",
-        "issues": "https://github.com/ghunti/HighchartsPHP/issues",
-        "source": "https://github.com/ghunti/HighchartsPHP"
+        "issues": "https://github.com/scorpionslh/HighchartsPHP/issues",
+        "source": "https://github.com/scorpionslh/HighchartsPHP"
     },
     "require": {
         "php": ">=5.3.0"
